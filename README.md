@@ -1,2 +1,0 @@
-# withsprinkles
-Employee Payroll Tracker
