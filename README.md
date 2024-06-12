@@ -12,3 +12,4 @@ You will see a prompt asking "Shall I add another" You may add as many employees
 Clicking "Cancel" will end the loop and present a chart with your employees, their respected saleries 
 
 And by using the INSPECT tool and selecting Console you will see a message expressing the average of salery
+![alt text](<Screen Shot 2024-06-12 at 5.03.11 PM.png>)
